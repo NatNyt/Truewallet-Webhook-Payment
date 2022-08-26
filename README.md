@@ -2,6 +2,11 @@
 
 ระบบเติมเงินเข้าหน้าเว็บไซต์ผ่านระบบ Offical API Truewallet
 
+## Important 
+- ยังไม่ได้ทดสอบจริงเพราะไม่ผ่านเกณฑ์ของ Truewallet คับ
+- เจ้าของผลงาน [DearTanakorn](https://github.com/DearTanakorn/truemoney-webhook-gateway)
+- ผมเอาดัดแปลงนะคับ 
+
 ## Reqiurement
 
 - Node.js 14.0.0 หรือใหม่กว่า (ทดสอบบน 16.14.2)
@@ -24,5 +29,3 @@ node .
 ```
 ## How to use
 - ขอไม่บอกนะคับพอดี ทำลำบาก นะ
-## Important 
-- ยังไม่ได้ทดสอบจริงเพราะไม่ผ่านเกณฑ์ของ Truewallet คับ
